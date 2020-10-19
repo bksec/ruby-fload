@@ -11,4 +11,4 @@ Responsibility for the use of ruby-float belongs to the end user.Developers assu
 </br>
 git clone https://github.com/bksec/ruby-fload
 </br>
-ruby fload.tb
+ruby fload.rb
