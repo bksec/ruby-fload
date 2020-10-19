@@ -10,7 +10,7 @@ puts "https://berkaykucuk.com.tr".green
 sleep 3
 system("clear")
 
-puts "give me your domain (exp:http://google.xyz): ".blue.bold
+puts "give me your domain (exp:http://bksec.xyz): ".blue.bold
 domain = gets.chomp
 puts "count:".blue.bold
 count = gets.chomp 
